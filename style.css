@@ -1,0 +1,88 @@
+nav .dropdown:hover .dropdown-menu
+        {
+         display:block;
+            
+        }
+        .btn{
+          border-radius: 35px;
+          padding: auto;
+        }
+        
+        .img{
+          
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+      
+        }
+        .navbar-brand{
+          position: absolute;
+          margin-left: 35%;
+        }
+        nav ul li{
+          top: 5%;
+        }
+        .sec-1 h1{
+          font-size:x-large ;
+          font-family: sans-serif;
+        }
+        .sec-1 h3{
+          font-size: medium;
+          font-family: sans-serif;
+        }
+        .sec-1 ul{
+          list-style: none;
+        }
+        .sec-1 li a{
+          color: black;
+          text-decoration: none;
+        }
+        .sec-1{
+          position: absolute;
+          padding-top: 20px;
+          width: 20%;
+          height: 100%;
+          margin-left: 2%;
+        outline: auto;
+        outline-color: gray;
+        }
+        .card a{
+          color: black;
+          text-decoration: none;
+        }
+        .card{
+          margin-left: 25%;
+          padding: 20px;
+        }
+        .icon a{
+          
+          color: white;
+          font-size: 20px;
+        }
+        .p-3{
+          display: flex;
+          align-items: center;
+          justify-content: space-around;
+        }
+        .p-3 h6 a{
+          color: white;
+          text-decoration: none;
+        }
+
+        .p-3 h6 a:hover{
+          color: yellow;
+
+        }
+        nav ul{
+          padding: 10px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+        .col:hover
+        {
+            opacity: 0.8;
+            transform: scale(0.98);
+        }
